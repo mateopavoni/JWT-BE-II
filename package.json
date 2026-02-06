@@ -1,6 +1,7 @@
 {
   "name": "ecommerce-backend",
   "version": "1.0.0",
+  "type": "module",
   "description": "E-commerce backend con autenticación JWT y Passport",
   "main": "src/app.js",
   "scripts": {
